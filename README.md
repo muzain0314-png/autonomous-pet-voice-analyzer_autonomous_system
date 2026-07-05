@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/6daef125-7f55-448c-a4cb-8344bde3513c
+
 # 🛡️ Autonomous Pet Voice Analyzer (Muzain Edition)
 
 Welcome to the official showcase of the **Autonomous Pet Voice Analyzer**! This is an advanced, high-performance intelligent system built after two days of continuous dedication, troubleshooting, and rigorous audio signal testing. 
